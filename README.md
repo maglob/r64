@@ -14,6 +14,6 @@ Experimenting with c64 coding.
 * From VICE select "File > Smart attach Disk/Tape" and select file hello
 * SYS 4096
 
-(https://raw.githubusercontent.com/maglob/r64/master/screen-captures/screen-1.png)
+![](https://raw.githubusercontent.com/maglob/r64/master/screen-captures/screen-1.png)
 
-(https://raw.githubusercontent.com/maglob/r64/master/screen-captures/screen-2.png)
+![](https://raw.githubusercontent.com/maglob/r64/master/screen-captures/screen-2.png)
