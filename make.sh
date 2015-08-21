@@ -1,0 +1,1 @@
+dasm hello.s -ohello
