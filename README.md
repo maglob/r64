@@ -12,7 +12,11 @@ Experimenting with c64 coding.
 * dasm hello.s -ohello
 * start VICE
 * From VICE select "File > Smart attach Disk/Tape" and select file hello
-* SYS 4096
+
+or
+
+* ./make.sh
+* ./run.sh
 
 ![](https://raw.githubusercontent.com/maglob/r64/master/screen-captures/screen-1.png)
 
